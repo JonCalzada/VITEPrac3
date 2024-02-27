@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(499,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+  03_GeomModelling.cpp
+C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\03_GeomModelling\include\Circle.h(63,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\03_GeomModelling\include\Sphere.h(54,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\03_GeomModelling\include\Cylinder.h(63,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\03_GeomModelling\include\Cone.h(63,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+glfw3.lib(input.obj) : warning LNK4099: no se encontró PDB 'glfw.pdb' con 'glfw3.lib(input.obj)' o en 'C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\bin\glfw.pdb'; se vinculará el objeto sin tener en cuenta información de depuración
+  Practica3hombre.vcxproj -> C:\Users\danie\Desktop\Escuela\Grafica lab\Practicas\Practica 3\Trabajo 2\stv-labcgeihc2023-1-main\bin\Practica3hombre.exe
